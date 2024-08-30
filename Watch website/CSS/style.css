@@ -1,0 +1,57 @@
+
+.header  {
+   width: 100%;
+   background-image: linear-gradient(to right, purple , blue);
+   color: white;
+   padding-bottom: 10px;
+   margin-top: -5%;
+}
+.header a {
+    text-decoration: none;
+    color: white;
+}
+.row {
+   padding-bottom: 1%;
+}
+.container {
+   margin-bottom: 5%;
+   margin-top: 5%;
+}
+#forms {
+   display: none;
+   border:solid
+
+}
+.nav-link:hover {
+font-size: 25px;
+}
+button:hover {
+   font-size: larger;
+   
+}
+
+.outer {
+
+   background-image: linear-gradient(to right, purple , blue);
+   width:100%;
+   color: white;
+}
+
+.info {
+   
+   display: flex;
+   
+}
+.desc {
+   display: grid;
+   place-items: center;
+}
+.footer {
+   background-image: linear-gradient(to right, purple , blue);
+   color: white;
+   margin-bottom: -5%;
+  
+}
+.col ul{
+   list-style-type: none;
+}
